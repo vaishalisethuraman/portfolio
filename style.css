@@ -1,0 +1,22 @@
+li{
+    display:inline;
+    padding:10px;
+    margin:10px;
+}
+img{
+    position:absolute;
+    right:250px;
+    bottom:250px;
+    height:300px;
+    border-radius:100%;
+    width:350px;
+    border:2px solid blue
+}
+button{
+    border-radius:5px;
+    border-color:white;
+}
+.first-half{
+    color:blue;
+ }
+ 
